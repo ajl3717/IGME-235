@@ -1,9 +1,9 @@
 #The Four Elements
 
-*Home
-*Proposal
-*Documentation
-*Project
+Home
+Proposal
+Documentation
+Project
 
 ##High concept
 Like Advance Wars but with the 4 elements.
