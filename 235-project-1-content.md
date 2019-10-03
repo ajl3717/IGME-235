@@ -1,26 +1,26 @@
-#H1 The Four Elements
+#The Four Elements
 
 *Home
 *Proposal
 *Documentation
 *Project
 
-##H2 High concept
+##High concept
 Like Advance Wars but with the 4 elements.
 
-##H2 Genre
+##Genre
 Strategy
 
-##H2 Platform
+##Platform
 Universal
 
-##H2 Story
+##Story
 After years of conflict, the elements finally decided to try to take over the world and defeat the other elements.
 
-##H2 Esthetics
+##Esthetics
 Cartoonish graphics with 8-bit sound during battle and on the UI
 
-##H2 Gameplay
+##Gameplay
 Turn-based game using touch or mouse controls to declare actions. You can build your army, take over new land,
 fight the enemy, move your troops, or just wait to see what the opponent will do. There will be instructions when
 you first start the game, and the pause menu will have an instructions option. The player will need to learn how to
@@ -28,19 +28,23 @@ manage his troops and which troops are stronger against others in order to defea
 also be useful for the player as he doesn't want to wait too long to start growing his army because he might get
 overwhelmed by his opponents that might.
 
-##H2 Screenshots
+##Screenshots
 
 
-##H2 About the Developer
-*Name
-..*Anthony Lamar
-*Year
-..*2nd 
-*Major
-..*Game Design and Development
-*Minor
-..*Communication
-*Languages
-..*C#, HTMl 
-*Programs
-..*Unity, Unreal, Photoshop, Maya
+##About the Developer
+Name
+-Anthony Lamar
+Year
+-2nd 
+Major
+-Game Design and Development
+Minor
+-Communication
+Languages
+-C#
+-HTMl 
+Programs
+-Unity
+-Unreal
+-Photoshop
+-Maya
